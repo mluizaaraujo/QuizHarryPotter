@@ -74,14 +74,14 @@ const perguntas = [
     {
       pergunta: "Quem é o professor de Defesa Contra as Artes das Trevas em 'A Pedra Filosofal'?",
       respostas: [
-        "Gilderoy Lockhart",
+        "Quirinus Quirrell",
         "Remo Lupin",
         "Dolores Umbridge",
       ],
       correta: 0
     },
     {
-      pergunta: "Qual é o nome do feitiço usado para conjurar a varinha de um bruxo?",
+      pergunta: "Qual é o nome do feitiço usado para atrair um objeto ao feiticeiro?",
       respostas: [
         "Accio",
         "Expecto Patronum",
