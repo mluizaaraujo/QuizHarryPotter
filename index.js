@@ -69,7 +69,7 @@ const perguntas = [
         "Sapo",
         "Coruja",
       ],
-      correta: 2
+      correta: 0
     },
     {
       pergunta: "Quem é o professor de Defesa Contra as Artes das Trevas em 'A Pedra Filosofal'?",
